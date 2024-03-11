@@ -1,0 +1,66 @@
+.storybook-toast{
+    width: 640px;
+    height: 160px;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px solid #66E7C6;
+    border-radius: 6px;
+    gap: 12px;
+    font-family:sans-serif;
+}
+  
+
+  .storybook-toast--success{
+    color:#0E9F6E;
+  }
+  .storybook-toast--danger{
+    color:#FF6464;
+    border: 1px solid #FF6464;
+  }
+  .storybook-toast--CTA{
+    width: 640px;
+    height: 34px;
+    padding: 16px;
+    border-radius: 6px;
+    gap: 10px;
+
+  }
+  .storybook-toast-cta--success{
+   
+    border: 1px solid #66E7C6;
+    color:#0E9F6E;
+
+
+  }
+ 
+    
+  .storybook-toast--true {
+    width: 375px;
+    height: 202px;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px;
+    border: 1px solid #66E7C6;
+    gap: 12px;
+      
+  }
+     
+  .storybook-toast-cta--true {
+    width: 375px;
+  
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px;
+    border: 1px solid #66E7C6;
+    gap: 12px;
+      
+  }
+
+  .storybook-toast-cta--danger{
+   
+    border: 1px solid #FF6464;
+    color:#FF6464;
+
+
+
+  }
